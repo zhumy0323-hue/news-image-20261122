@@ -13,3 +13,6 @@ Every story happened or was first reported on Sunday 22 November 2026. Late-Satu
 ```sh
 python3 main.py
 ```
+
+The script writes the image to `/output/entry.png`. It needs no network
+access and no third-party packages — only the Python standard library.
